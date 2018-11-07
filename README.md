@@ -6,7 +6,7 @@ This is inspired by [notwaldorf/ama](https://github.com/notwaldorf/ama), which i
 
 ## Ask a question
 
-Feel free to create a [new Github issue]I'm also an open sourceI'm also an open source(https://github.com/nfischer/ama/issues/new).
+Feel free to create a [new Github issue](https://github.com/nfischer/ama/issues/new).
 
 ## Who am I?
 
